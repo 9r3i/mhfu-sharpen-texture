@@ -1,5 +1,5 @@
 # mhfu-sharpen-texture
-extracted texture sharpen
+extracted texture sharpen for mhfu
 
 ![](monhuntri.jpg)
 
@@ -18,24 +18,24 @@ This is just a generator to sharpen the raw textures.
 
 # Usage
 - Open Termux app, and install ```git``` and ```php``` if they're not installed yet
-```
-pkg install git php
-```
+  ```
+  pkg install git php
+  ```
 - Clone the repo to psp directory using ```git```
-```
-cd /sdcard/psp
-git clone https://github.com/9r3i/mhfu-sharpen-texture
-cd mhfu-sharpen-texture
-```
+  ```
+  cd /sdcard/psp
+  git clone https://github.com/9r3i/mhfu-sharpen-texture
+  cd mhfu-sharpen-texture
+  ```
 - Generate the sharpening from the raw materials using ```php```
-```
-php sharpen.php
-```
+  ```
+  php sharpen.php
+  ```
 - Its gonna take awhile, just wait until its done
 - Move the generated of the sharpened textures to psp textures directory
-```
-mv -v ULUS10391 /sdcard/psp/textures
-```
+  ```
+  mv -v ULUS10391 /sdcard/psp/textures
+  ```
 - Done! Now turn on the texture replacement on the settings of PPSSPP app:
   - Open PPSSPP app
   - Go for settings --> tools --> developer tools --> replace textures --> check it
@@ -45,12 +45,9 @@ mv -v ULUS10391 /sdcard/psp/textures
 # Sample
 
 - Before
-
-![](sample/before.png)
-
+  - ![](sample/before.png)
 - After
-
-![](sample/after.png)
+  - ![](sample/after.png)
 
 
 # Closing
