@@ -44,10 +44,9 @@ This is just a generator to sharpen the raw textures.
 
 # Sample
 
-- Before
-  - ![](sample/before.png)
-- After
-  - ![](sample/after.png)
+| Before | After |
+|--------|-------|
+| ![](sample/before.png) | ![](sample/after.png) |
 
 
 # Closing
