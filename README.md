@@ -13,7 +13,7 @@ This is just a generator to sharpen the raw textures.
 # Requirements
 - Android OS
 - PPSSPP app to play the game
-- Termux app with ```git``` and ```php``` installed in in it
+- Termux app with ```git``` and ```php``` installed in it
 
 
 # Usage
