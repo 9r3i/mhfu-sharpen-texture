@@ -5,9 +5,10 @@ extracted texture sharpen for mhfu
 
 
 # Caution
-This is **NOT** HD Textures!
-
-This is just a generator to sharpen the raw textures.
+> [!CAUTION]
+> This is **NOT** HD Textures!
+> 
+> This is just a generator to sharpen the raw textures.
 
 
 # Requirements
